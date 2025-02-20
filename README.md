@@ -1,5 +1,5 @@
 # termSpider
-adaptable web crawler script for finding specified terms across a list of websites. 
+web crawler script for finding specified terms across a list of websites
 
 ## Installation
 You need Python 3.6, and these libraries:
